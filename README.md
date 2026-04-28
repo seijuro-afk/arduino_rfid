@@ -89,10 +89,10 @@ static String getNameByUID(String uid) {
 ```
 
 ## CSV Output Format
-
-Time,UID,Name,Status
-2024-01-15 08:32:11,D9:21:B5:02,Your Name,GRANTED
-2024-01-15 08:45:03,UNKNOWN,Unknown,DENIED
+| Time | UID | Name | Status |
+| --- | --- | --- | --- |
+| 2024-01-15 08:32:11 | D9:21:B5:02 | Your Name | GRANTED |
+| 2024-01-15 08:45:03 | UNKNOWN | Unknown | DENIED |
 
 ## How It Works
 
