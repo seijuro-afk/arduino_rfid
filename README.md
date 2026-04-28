@@ -25,8 +25,8 @@ An Arduino-based RFID attendance system that scans cards and logs attendance rec
 
 | Component  | Arduino Pin       |
 |------------|-------------------|
-| Green LED  | Pin 6 + 220Ω      |
-| Red LED    | Pin 7 + 220Ω      |
+| Green LED  | Pin 6 + 1KΩ      |
+| Red LED    | Pin 7 + 1KΩ      |
 
 ## Arduino Setup
 
