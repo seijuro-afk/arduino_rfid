@@ -6,8 +6,8 @@ An Arduino-based RFID attendance system that scans cards and logs attendance rec
 
 - Arduino Uno
 - RFID-RC522 module
-- Green LED + 220Ω resistor
-- Red LED + 220Ω resistor
+- Green LED + 1KΩ resistor
+- Red LED + 1KΩ resistor
 - Jumper wires and breadboard
 
 ## Wiring
