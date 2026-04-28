@@ -61,7 +61,6 @@ javac -cp .;lib/jSerialComm-2.11.4.jar java/AttendanceLoggerGUI.java
 ```
 
 **Run:**
-Run the run.bat file or
 ```bash
 java --enable-native-access=ALL-UNNAMED -cp .;lib/jSerialComm-2.11.4.jar AttendanceLoggerGUI
 ```
